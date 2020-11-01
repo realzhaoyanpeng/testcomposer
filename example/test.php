@@ -1,9 +1,9 @@
 <?php
 
-include __DIR__ . "./../vendor/autoload.php";
+include __DIR__ . "./src/classb.php";
 
 use tcmeeting\classa;
-use tcmeeting\calssb;
+use tcmeeting\classb;
 
 (new classa())->say();
 (new classb())->say();
