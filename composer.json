@@ -1,5 +1,7 @@
 {
-  "autoload": {
+  "name": "tcmeeting",
+   "type": "project",
+   "autoload": {
     "psr-4": {
       "tcmeeting\\": "./src/tcmeeting/"
     }
